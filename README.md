@@ -23,7 +23,7 @@ Little scripts to make life easier
 
 Using the right mouse click to go back a page in a web browser or file explorer in Windows 10, double-clicking it, runs the script.
 
-* To change the button, replace the ```RButton```with the desired button, you can learn about the AutoHotkey button [here](https://www.autohotkey.com/docs/KeyList.htm)
+* To change the button, replace the ```RButton```with the desired button, you can learn about the AutoHotkey button [here](https://www.autohotkey.com/docs/KeyList.htm).
 
 * The ```Send,{Browser_Back}``` is what you want the button to do once it's clicked, change the ```Browser_back``` to the action you need. [Here](https://www.autohotkey.com/docs/commands/Send.htm) you can learn more about it.
 
@@ -35,7 +35,7 @@ Using ctrl+j to paste text (or id number in my case) to any text editor.
 
 * ```^``` means ctrl. [Here](https://www.autohotkey.com/docs/commands/Send.htm) are more details.
 
-* ```j``` is the desired key that I chose.
+* ```j``` is the key that I chose.
 
 * ```Send, ENTER_HERE_TEXT``` Just like the GoBack script, here you can put any text that frustrates you every time you need to type it.
 
